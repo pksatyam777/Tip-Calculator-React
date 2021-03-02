@@ -1,5 +1,33 @@
 See Output Here 👉  https://pksatyam777.github.io/Tip-Calculator-React/ 😍.</br>
 
+
+
+CREATE REACT APP
+INSTRUCTIONS:-</br>
+As a restaurant owner, I want to calculate the total tip offered by various customer according to their
+experience.
+For example, if the experience is excellent and the total bill of the customer is 2000
+The total tip would be 20% of 2000 i.e. 400 Rs. You need to show Customer Name and the tip amount
+400 as an output for each customer.
+
+OBJECTIVES:-</br>
+
+1. Create a bill amount field.
+2. Create a text input for entering the name of the customers.
+3. Create a select tag for service rating, based on the rating the tip amount will be calculated
+and displayed.
+for example:
+total bill amount: 2000
+Service 1: excellent (20%)
+Service 2: Moderate (10%)
+Service 3: bad (5%)
+4. Tip from customer 1: (2000) * 20% - Customer tip - 400 Rs
+Tip from customer 2: (2500) * 10% - Customer tip - 250 Rs
+Tip from customer 3: (5000) * 5% - Customer tip - 250 Rs
+5. When customer clicks on Add customer button after filling the details, calculate and
+display the tip for the customer and add the details to the output area dynamically.
+6. Add a Calculate button to view total customers and total tip paid.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
