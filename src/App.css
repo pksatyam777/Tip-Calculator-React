@@ -1,0 +1,104 @@
+body,html{
+  padding: 0;
+  margin:0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url("back.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width:auto;
+  margin: 0;
+  padding: 0;
+
+
+
+}
+.form-div{
+  height:600px;
+  width:600px;
+
+  margin-left: 30%;
+  margin-top: 5%;
+  font-family: 'Teko', sans-serif;
+  text-align: center;
+  box-shadow: 1px 1px 15px 3px #ea2c62;
+  box-sizing: border-box;
+  background: rgba(0,0,0,0.5);
+  position: fixed;
+  /* zoom: 1;
+  filter: alpha(opacity=50);
+  opacity: 0.5; */
+
+
+}
+.form-header{
+  background-color: #ea2c62;
+  margin: 0;
+  padding: 10px;
+  font-size: 25px;
+  font-family: 'Teko', sans-serif;
+
+}
+.ent-amt{
+  width: 95%;
+}
+h3{
+  border: solid 1px;
+}
+.f-submit{
+  text-align: center;
+
+}
+.h-s{
+  padding: 2%;
+}
+.opt{
+  margin-right:15px;
+}
+.cstm-inp{
+  margin-right:15px;
+}
+.add-btn,.f-submit{
+  background-color:#ea2c62;
+  border:none;
+  padding: 1%;
+  border-radius:5%;
+  color:white;
+}
+.foot{
+  position:fixed;
+  bottom: 5.1%;
+  width:39.5%;
+  height:60px;
+  background-color: #ea2c62;
+
+
+
+}
+h5{
+  font-size: 20px;
+
+}
+.e-b{
+  font-size: 20px;
+}
+.f-submit{
+  margin-top: 5%;
+
+
+}
+.lp-pom-text ul, li {
+color:white;
+}
+TABLE{
+  width:600px;
+  font-size: 20px;
+  color:white;
+}
+.h-r{
+  width:600px;
+
+}
